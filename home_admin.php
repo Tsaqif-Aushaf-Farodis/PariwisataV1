@@ -186,7 +186,7 @@ include("connect.php"); ?>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><img class="img-circle" src="assets/img/Wisata-Kuliner-Yogyakarta.png" width="200px">
                 <h3>WISATA KULINER</h3>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><img class="img-circle" src="assets/img/candi-prambanan.jpg" width="200px">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><img class="img-circle" src="assets/img/candiprambanan.jpg" width="200px">
                 <h3>WISATA KESEJARAHAN</h3>
             </div>
         </div>
